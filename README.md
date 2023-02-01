@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SHUBHAM JAIN
-- :loud_sound: 2xAWS & 1xGCP Certified. 
-- 👀 I’m interested in Exploration ...
-- 🌱 I’m currently learning Jenkins & CircleCi ...
+- :loud_sound: 2xAWS & 1xGCP Certified 
+- 👀 I’m interested in Exploration
+- 🌱 I’m currently learning Vultr Cloud
 - 💞️ I’m looking to collaborate on tech
 - 📫 How to reach me shubhamjain6197@gmail.com. https://stackoverflow.com/users/6587953/shubham-jain
 
