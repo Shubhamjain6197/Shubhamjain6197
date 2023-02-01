@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SHUBHAM JAIN
-- :loud_sound: 
+- :loud_sound: 2xAWS & 1xGCP Certified. 
 - 👀 I’m interested in Exploration ...
 - 🌱 I’m currently learning Jenkins & CircleCi ...
 - 💞️ I’m looking to collaborate on tech
