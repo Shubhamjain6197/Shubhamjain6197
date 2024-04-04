@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SHUBHAM JAIN
-- :loud_sound: 2xAWS & 1xGCP Certified 
+- :loud_sound: 2xAWS & 2xGCP Certified 
 - 👀 I’m interested in Exploration
 - 🌱 I’m currently learning OCI Cloud & K8
 - 📫 How to reach me shubhamjain6197@gmail.com. https://stackoverflow.com/users/6587953/shubham-jain
